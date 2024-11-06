@@ -1,0 +1,1 @@
+EXEC GetUserPermissions @EntityID = 1, @UserID = 1;
